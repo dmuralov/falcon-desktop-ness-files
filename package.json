@@ -1,18 +1,18 @@
 {
-  "name": "particl-desktop",
+  "name": "falcon-desktop",
   "version": "3.0.0",
   "branch": "3.0",
   "license": "GPL-2.0",
-  "description": "Particl Desktop - decentralized marketplace, private currency, messaging & self-governance",
-  "homepage": "https://particl.io",
+  "description": "Falcon Desktop - decentralized marketplace, private currency, messaging & self-governance",
+  "homepage": "https://falcon.io",
   "keywords": [
-    "particl"
+    "falcon"
   ],
-  "author": "Particl contributors",
+  "author": "Falcon contributors",
   "scripts": {
     "generate:versions": "node modules/clientBinaries/generateVersions.js"
   },
-  "productName": "particl-desktop",
+  "productName": "falcon-desktop",
   "dependencies": {
     "got": "^9.6.0"
   }
